@@ -7,6 +7,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 import io.swagger.v3.oas.annotations.info.License;
 import io.swagger.v3.oas.annotations.servers.Server;
 
+//http://localhost:8080/swagger-ui/index.html#/
 @OpenAPIDefinition(
         info = @Info(
                 title = "BShop: Automobile Repair Shop",
